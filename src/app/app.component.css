@@ -1,0 +1,24 @@
+.topnavigate {
+  overflow: hidden;
+  background-color: #20B2AA;
+  text-align: center;
+}
+
+.topnavigate a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Trebuchet MS";
+}
+
+.topnavigate a:hover {
+  color:black;
+}
+
+.active {
+ background: #008080;
+  color: white;
+}
